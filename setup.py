@@ -35,7 +35,7 @@ setup(
     keywords=['Raspberry Pi', 'photobooth', 'gallery', 'qr'],
     py_modules=['pibooth_gallery_qr'],
     install_requires=[
-        'pibooth>=2.0.0',
+        'pibooth-ceeeeb>=2.0.9',
         'qrcode>=6.1',
     ],
     zip_safe=False,
